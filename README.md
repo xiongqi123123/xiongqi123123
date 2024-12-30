@@ -1,6 +1,6 @@
 ## Hi World！ 👋
 - 🔭你好呀！💡
-- 我是SkyXZ~目前是CSUST本科三年级在读🍗
+- 这里是SkyXZ~目前是CSUST本科三年级在读🍗
 - 会一点点的视觉、一点点的嵌入式，未来想成为一名机器人工程师😄
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xiongqi123123)
