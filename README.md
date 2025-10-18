@@ -1,7 +1,7 @@
 ## Hi World！ 👋
-- 🔭你好呀！💡
-- 这里是SkyXZ~目前是CSUST本科三年级在读🍗
-- 会一点点的视觉、一点点的嵌入式，未来想成为一名机器人工程师😄
+- 🔭 Hi ! 💡
+- I'm SkyXZ, a Year 0 master’s student at Xidian University (XDU).
+- I’m passionate about computer vision, embedded systems, and dream of becoming a robotics engineer one day 🚀.�
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xiongqi123123)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](157717270@qq.com)
