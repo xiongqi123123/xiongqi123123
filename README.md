@@ -9,8 +9,7 @@
 [![博客园](https://img.shields.io/badge/cnblogs-SkyXZ-blue.svg)](https://blog.csdn.net/xiongqi123123?spm=1000.2115.3001.5343)
 ![v](https://views.whatilearened.today/views/github/xiongqi123123/views.svg)
 
-
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=xiongqi123123&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats">
+[![trophies](https://github-profile-trophy.vercel.app/?username=xiongqi123123&theme=flat&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
